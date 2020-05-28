@@ -8,7 +8,4 @@ import org.junit.runner.RunWith;
 @CucumberOptions(features = "src/test/Resources/Homepage.feature")
 public class RunCukesTest {
 }
-//Vipul
-//Bhesania
-//please add assertion
-//assertion added
+//Everthing seems fine now
