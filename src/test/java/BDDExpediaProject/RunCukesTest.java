@@ -8,4 +8,5 @@ import org.junit.runner.RunWith;
 @CucumberOptions(features = "src/test/Resources/Homepage.feature")
 public class RunCukesTest {
 }
-//Everthing seems fine now
+//Everything seems fine now
+//Appreciate for your comment
